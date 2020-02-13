@@ -9,7 +9,8 @@ For this project to work you need to install the following dependencies:
 * ROS
 
 ### Running the node
-1. Start roscore Docker container on duckiebot (should be started automatically)
+1. Start roscore Docker container on duckiebot
+   - should be started automatically: `duckietown/duckiebot-interface:master19`
 2. Start joystick demo on duckiebot
    - ``dts duckiebot demo --demo_name joystick --duckiebot_name <duckiebot name>``
    - ... or through Portainer interface
