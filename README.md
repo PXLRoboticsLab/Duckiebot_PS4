@@ -1,4 +1,4 @@
-# Duckiebot_PS4
+# Duckieshock 4
 Simple ROS node that connects PS4 controller (Sony Dualshock 4) to a duckiebot to control it remotely.
 
 1. Start roscore Docker container on duckiebot (should be started automatically)
