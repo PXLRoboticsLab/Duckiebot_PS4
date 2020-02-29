@@ -17,7 +17,7 @@ For this project to work you need to install the following dependencies:
 3. ``export ROS_MASTER_URI=http://<duckie IP>:11311``
 4. ``export ROS_IP=<computer IP>``
 5. Plug in PS4 controller with USB
-6. python2 control.py
+6. ```python control.py duckie_hostname```
    - Should work with Python 3.6 as well, 3.7 is broken for now (pyglet doesn't fully support 3.7 at time of creation)
 
 ## License
